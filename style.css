@@ -1,0 +1,19 @@
+.title{
+    background-color: red;
+    color: white;
+    font-size: 60px;
+}
+.odd{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: bold;
+}
+
+.odd.cookies{
+color: burlywood;
+}
+.odd.chicken{
+    color: green;
+}
+.odd.pie{
+color: purple;
+}
